@@ -116,12 +116,6 @@ div.case-study-images img{
 
 /* Contact Us Form */
 
-
-
-/*.nf-form-content.scontact-form label{
-	font-weight:normal;
-}*/
-
 .nf-form-title{
 	display:none;
 }
@@ -151,20 +145,7 @@ div.case-study-images img{
 	height:40px;
 }
 
-/*#nf-field-1{
-	height:55px;
-	width:400px;
-}
 
-#nf-field-2{
-	height:55px;
-	width:410px;
-}
-
-#nf-field-3{
-	height:200px;
-	width:900px;
-}*/
 
 #nf-field-4{
 	background-color:#45ab9d;
@@ -173,9 +154,7 @@ div.case-study-images img{
 	font-size:18px;
 	color:#ffffff;
 	padding:15px 80px;
-	/*display:inline-block;
-	margin-right:55px;
-	max-width:100%;*/
+	
 	
 }
 
@@ -252,3 +231,38 @@ div.case-study-images img{
 .button{
 	font-family:"montserrat"
 }
+
+/* 404 page */
+.entry-content{
+	margin-top:8%;
+	margin-bottom:20%;
+	float:left;
+	display:inline;
+}
+
+.error-message{
+	width:60%;
+	float:left;
+	padding-left:5%;
+}
+
+.error-message h2{
+	font-size:35px;
+	color:#45ac9d;
+}
+
+.error-message p{
+	/*font-family:"opensans bold";*/
+	font-size:20px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.error-message a{
+	color:#45ac9d;
+	font-weight:bold;
+}
+.error-image {
+	float:left;
+	margin-top:5%;
+}
+
